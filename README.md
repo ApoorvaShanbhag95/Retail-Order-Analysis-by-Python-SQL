@@ -52,6 +52,14 @@ The analysis provides **actionable recommendations** for business growth:
 
 ---
 
+## 📂 Repository Structure
+
+├── sql_code.sql # SQL queries for data extraction & aggregation
+
+├── orders data analysis.py # Python script for data analysis & visualization
+
+├── README.md # Project description & documentation
+
 
 
 
